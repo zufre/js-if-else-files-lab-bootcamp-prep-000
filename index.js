@@ -1,5 +1,5 @@
 var name = "Susan"
-var height = "701"
+var height = 70
 
 
 // Don't worry about this
